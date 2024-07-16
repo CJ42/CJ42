@@ -24,7 +24,9 @@ Author of the 📓 [**All About Solidity Book**](https://leanpub.com/all-about-s
 - [LUKSO LSP Recipes to build new protocols](https://www.youtube.com/watch?v=cx7EHlP6BZM&pp=ygUOamVhbiBjYXZhbGxlcmE%3D)
 - LUKSO Standard Proposal Workshops for BuildUP #2 Hackathon - [Episode 1](https://www.youtube.com/watch?v=PrXVcRL1n98) | [Episode 2](https://www.youtube.com/watch?v=xQV2l7VSRZ0)
 
-> **Note:** below is my GitHub profile as a smart contract code written in Solidity!
+> **Note:** below is my GitHub profile as a smart contract code in Solidity!
+
+<br/>
 
 ```solidity title="GitHubProfile.sol"
 // SPDX-License-Identifier: YOLO
@@ -157,5 +159,5 @@ Here are some ideas to get you started:
 - [**Solidity Bytes Utils**](https://github.com/CJ42/Solidity-BytesUtils) - Solidity library to manipulate bits and bytes.
 
 
-
+<iframe id="ef_2Rx8cQdEx3" src="https://ethfiddle.com/services/iframesnippet/2Rx8cQdEx3" scrolling="no" frameborder="0" height="300" width="300" allowtransparency="true" class="ef_embed_iframe" style="width: 100%; overflow: hidden;"></iframe>
 
