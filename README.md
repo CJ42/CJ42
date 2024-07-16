@@ -16,6 +16,8 @@ Author of the 📑 [**All About Solidity** article series](https://medium.com/me
 - 🤝🏻 **Looking to collaborate on:** any web3 protocol or project.
 - 💬 **Ask me anything about:** smart contracts and Solidity! 🫡
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cj42&hide=TeX&layout=compact" alt="Jean's Github Stats" align="right" height="auto"/>
+
 ```solidity title="GitHubProfile.sol"
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
@@ -32,7 +34,8 @@ contract GitHubProfile is Ownable(
 
     Github githubInfos;
 
-    /// @dev Set as constant as set on birth (not planning to change it!)
+    /// @dev Set as constant as set on birth 
+    /// (not planning to change it!)
     string public constant FIRST_NAME = "Jean";
     string public job;
 
@@ -66,7 +69,7 @@ contract GitHubProfile is Ownable(
 
 ```
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cj42&hide=TeX&layout=compact" alt="Jean's Github Stats" align="right" height="auto"/>
+
 
 <!--
 **CJ42/CJ42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
