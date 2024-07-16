@@ -23,19 +23,37 @@ I am also the 📓 Author of the [**All About Solidity Book**](https://leanpub.c
 - [LUKSO LSP Recipes to build new protocols](https://www.youtube.com/watch?v=cx7EHlP6BZM&pp=ygUOamVhbiBjYXZhbGxlcmE%3D)
 - LUKSO Standard Proposal Workshops for BuildUP #2 Hackathon - [Episode 1](https://www.youtube.com/watch?v=PrXVcRL1n98) | [Episode 2](https://www.youtube.com/watch?v=xQV2l7VSRZ0)
 
-> **Note:** are you non-technical and stumbled on this page? The code below is an example smart contract written in Solidity to represent my Github profile as a smart contract! Built for fun and to highlight my passion!
+> **Note:** The code below is an example smart contract written in Solidity to represent my Github profile as a smart contract! Built for fun and to highlight my passion!
 
 ```solidity title="GitHubProfile.sol"
-// SPDX-License-Identifier: MIT
-pragma solidity ^0.8.0;
+// SPDX-License-Identifier: YOLO
+pragma solidity ^0.8.x;
+
+//                                   YOLO LICENSE
+//                              Version 1, July 10 2015
+// THIS SOFTWARE LICENSE IS PROVIDED "ALL CAPS" SO THAT YOU KNOW IT IS SUPER
+// SERIOUS AND YOU DON'T MESS AROUND WITH COPYRIGHT LAW BECAUSE YOU WILL GET IN
+// TROUBLE HERE ARE SOME OTHER BUZZWORDS COMMONLY IN THESE THINGS WARRANTIES
+// LIABILITY CONTRACT TORT LIABLE CLAIMS RESTRICTION MERCHANTABILITY SUBJECT TO
+// THE FOLLOWING CONDITIONS:
+// 1. #yolo
+// 2. #swag
+// 3. #blazeit
 
 import { Ownable } from "@openzeppelin/contracts/access/Ownable.sol";
 
-/**
- * @title GitHubProfile
- * @dev A contract to store and manage personal and professional information on GitHub.
- */
+/// @title GitHubProfile
+/// @dev A contract to store and manage personal and professional information on GitHub.
 contract GitHubProfile is Ownable(0xB82023c6d61C60E8715db485066542d501A91140) { // cj42.eth
+
+    /// @dev Event emitted when the profile is created
+    event ProfileCreated(string username, string url, string job, string[] skills);
+
+    /// @dev Event emitted when the job is updated
+    event JobChanged(string oldJob, string newJob);
+
+    /// @dev Event emitted when a new skill is added
+    event SkillAdded(string newSkill);
 
     struct Github {
         string username;
@@ -44,7 +62,7 @@ contract GitHubProfile is Ownable(0xB82023c6d61C60E8715db485066542d501A91140) { 
 
     Github private githubInfos;
 
-    /// @notice Constant first name, assigned at contract deployment
+    /// @dev Set as constant as assigned at birth (not planning to change it!)
     string public constant FIRST_NAME = "Jean";
     
     /// @notice The current job title
@@ -53,9 +71,10 @@ contract GitHubProfile is Ownable(0xB82023c6d61C60E8715db485066542d501A91140) { 
     /// @notice A list of skills
     string[] public skills;
 
-    /**
-     * @dev Initializes the contract with default values for GitHub information, job title, and skills.
-     */
+    /// @dev My approach to web3, Blockchain and Programming 🪂
+    string public constant motto = unicode"Keep Learning 📚, Keep BUIDLing! 🫡";
+
+    /// @dev Initializes the contract with default values for GitHub information, job title, and skills.
     constructor() {
         githubInfos.username = "CJ42";
         githubInfos.url = "https://github.com/CJ42";
@@ -66,37 +85,34 @@ contract GitHubProfile is Ownable(0xB82023c6d61C60E8715db485066542d501A91140) { 
         skills.push("Blockchain");
         skills.push("Web Development");
         skills.push("React");
+
+        emit ProfileCreated(githubInfos.username, githubInfos.url, job, skills);
     }
 
-    /**
-     * @notice Updates the job title
-     * @param newJob The new job title to set
-     * @dev Only the contract owner can call this function
-     */
+    /// @notice Updates the job title
+    /// @param newJob The new job title to set
+    /// @dev Only the contract owner (CJ42.eth) can call this function
     function updateJob(string memory newJob) public onlyOwner {
+        string memory oldJob = job;
         job = newJob;
+        emit JobChanged(oldJob, newJob);
     }
 
-    /**
-     * @notice Adds a new skill to the skills array
-     * @param newSkill The new skill to add
-     */
-    function addSkill(string memory newSkill) public {
+    /// @notice Adding a new skill `newSkill` to the list
+    /// @param newSkill The new skill to add
+    function addSkill(string memory newSkill) public onlyOwner {
         skills.push(newSkill);
+        emit SkillAdded(newSkill);
     }
 
-    /**
-     * @notice Retrieves the list of skills
-     * @return An array of strings representing the skills
-     */
+    /// @notice Retrieves the list of skills
+    /// @return An array of strings representing the skills
     function getSkills() public view returns (string[] memory) {
         return skills;
     }
 
-    /**
-     * @notice Retrieves the GitHub username and URL
-     * @return A tuple containing the GitHub username and URL
-     */
+    /// @notice Retrieves the GitHub username and URL
+    /// @return A tuple containing the GitHub username and URL
     function getGithubInfo() public view returns (string memory, string memory) {
         return (githubInfos.username, githubInfos.url);
     }
