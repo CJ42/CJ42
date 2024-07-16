@@ -14,7 +14,7 @@ I am also the 📓 Author of the [**All About Solidity Book**](https://leanpub.c
 - 🔭 **Currently working as:** Smart Contract Team Lead at LUKSO.
 - 🌱 **Currently learning:** Defi.
 - 🤝🏻 **Looking to collaborate on:** any web3 protocol or project.
-- 💬 **Ask me anything about:** smart contracts and Solidity! 🫡
+- 💬 **Ask me anything about:** smart contracts and Solidity! 🫡 
 
 ### 🎙️ Talks & Presentations
 
@@ -43,7 +43,7 @@ pragma solidity ^0.8.x;
 import { Ownable } from "@openzeppelin/contracts/access/Ownable.sol";
 
 /// @title GitHubProfile
-/// @dev A contract to store and manage personal and professional information on GitHub.
+/// @dev A contract to store and manage your GitHub profile information.
 contract GitHubProfile is Ownable(0xB82023c6d61C60E8715db485066542d501A91140) { // cj42.eth
 
     /// @dev Event emitted when the profile is created
@@ -106,6 +106,8 @@ contract GitHubProfile is Ownable(0xB82023c6d61C60E8715db485066542d501A91140) { 
     }
 
     /// @notice Retrieves the list of skills
+    /// @dev This function is necessary as we cant get back the full array from the `public` getter of the state variable.
+    /// The `skills(uint256)` getter function can only get value at specific indexes.
     /// @return An array of strings representing the skills
     function getSkills() public view returns (string[] memory) {
         return skills;
