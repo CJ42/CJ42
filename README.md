@@ -109,7 +109,7 @@ contract GitHubProfile is Ownable(0xB82023c6d61C60E8715db485066542d501A91140) { 
     }
 
     /// @notice Retrieves the list of skills
-    /// @dev This function is necessary as we cant get back the full array from the `public` getter of the state variable.
+    /// @dev We cant get back the full array from the `public` getter of the state variable.
     /// The `skills(uint256)` getter function can only get value at specific indexes.
     /// @return An array of strings representing the skills
     function getSkills() public view returns (string[] memory) {
@@ -157,7 +157,3 @@ Here are some ideas to get you started:
 - [**solidity-debugger.io**](https://solidity-debugger.io/) - curated list of Solidity errors and warnings + their explanations and how to fix them.
 - [**Decentralised Relayer Contracts**](https://github.com/CJ42/contracts.any.sender) - optimised forked version of any.sender working with Solidity 0.8.x
 - [**Solidity Bytes Utils**](https://github.com/CJ42/Solidity-BytesUtils) - Solidity library to manipulate bits and bytes.
-
-
-<iframe id="ef_2Rx8cQdEx3" src="https://ethfiddle.com/services/iframesnippet/2Rx8cQdEx3" scrolling="no" frameborder="0" height="300" width="300" allowtransparency="true" class="ef_embed_iframe" style="width: 100%; overflow: hidden;"></iframe>
-
