@@ -16,6 +16,56 @@ Author of the 📑 [**All About Solidity** article series](https://medium.com/me
 - 🤝🏻 **Looking to collaborate on:** any web3 protocol or project.
 - 💬 **Ask me anything about:** smart contracts and Solidity! 🫡
 
+```solidity title="GitHubProfile.sol"
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.0;
+
+import { Ownable } from "@openzeppelin/contracts/access/Ownable.sol";
+
+contract GitHubProfile is Ownable(
+    0xB82023c6d61C60E8715db485066542d501A91140 // cj42.eth
+) {
+    struct Github {
+        string username;
+        string url;
+    }
+
+    Github githubInfos;
+
+    /// @dev Set as constant as set on birth (not planning to change it!)
+    string public constant FIRST_NAME = "Jean";
+    string public jobTitle;
+
+    string[] public skills;
+
+    constructor() {
+        githubInfos.username = "CJ42";
+        githubInfos.url = "https://github.com/CJ42";
+
+        jobTitle = "Smart Contract Team Lead at LUKSO";
+        
+        skills.push("Solidity");
+        skills.push("Smart Contracts");
+        skills.push("Blockchain");
+        skills.push("Web Development");
+        skills.push("React");
+    }
+
+    function updateJobTitle(string memory newJob) public onlyOwner {
+        jobTitle = newJob;
+    }
+
+    function addSkill(string memory newSkill) public {
+        skills.push(newSkill);
+    }
+
+    function getSkills() public view returns (string[] memory) {
+        return skills;
+    }
+}
+
+```
+
 <!--
 **CJ42/CJ42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
