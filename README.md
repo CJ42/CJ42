@@ -1,8 +1,3 @@
-<style>
-    #talks-presentation {
-        border-bottom: none !important;
-    }
-</style>
 ## Welcome to my GitHub Profile! 👋 
 
 <a href="https://leanpub.com/all-about-solidity-book#:~:text=A%20developer%20guide%20for%20smart,build%20new%20protocols%20and%20dApps.&text=Discover%20the%20secrets%20of%20the,About%20Solidity%22%20for%20a%20reason!" target="_blank"><img src="https://d2sofvawe08yqg.cloudfront.net/all-about-solidity-book/s_hero?1715538832" alt="side Gif" style="z-index: 99999999" align="right" height="auto"/></a>
@@ -21,7 +16,7 @@ I am also the 📓 Author of the [**All About Solidity Book**](https://leanpub.c
 - 🤝🏻 **Looking to collaborate on:** any web3 protocol or project.
 - 💬 **Ask me anything about:** smart contracts and Solidity! 🫡
 
-<h2 id="talks-presentations">🎙️ Talks & Presentations</h2>
+### 🎙️ Talks & Presentations
 
 - [Building a POAP using the LSP8 Standard - Eth Denver 2024 Workshop.](https://www.youtube.com/watch?v=ff_IYOuQn_s&pp=ygUOamVhbiBjYXZhbGxlcmE%3D)
 - [The Bytecode Episode #4 - Explaining the LSP6 Key Manager](https://www.youtube.com/watch?v=2Sm9LsCPjdE)
@@ -86,6 +81,8 @@ Here are some ideas to get you started:
 
 ## 🌟 Featured Projects
 
+<img src="https://github-readme-stats.vercel.app/api?username=cj42&count_private=true&show_icons=true&include_all_commits=true" align="right" alt="Jean's Github Stats" height="auto"/>
+
 - **All About Solidity**
     - [The Book](https://leanpub.com/all-about-solidity-book#:~:text=A%20developer%20guide%20for%20smart,build%20new%20protocols%20and%20dApps.&text=Discover%20the%20secrets%20of%20the,About%20Solidity%22%20for%20a%20reason!)
     - [The Article Series](https://medium.com/coinmonks/all-about-solidity-article-series-f57be7bf6746
@@ -93,6 +90,8 @@ Here are some ideas to get you started:
     - [Repository with more in-depth explanations and code examples](https://github.com/CJ42/All-About-Solidity).
 - [Blockchain Academic References](https://github.com/CJ42/Blockchain-Academic-References)
 - [Bitcoin Core Alpha release](https://github.com/CJ42/original-bitcoin-core-code-explained) - Deep Dive into the C++ source code.
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cj42&hide=TeX&layout=compact" alt="Jean's Github Stats" align="right" height="auto"/>
 
 ### 💝 LUKSO Featured
 
@@ -106,6 +105,6 @@ Here are some ideas to get you started:
 - [**Decentralised Relayer Contracts**](https://github.com/CJ42/contracts.any.sender) - optimised forked version of any.sender working with Solidity 0.8.x
 - [**Solidity Bytes Utils**](https://github.com/CJ42/Solidity-BytesUtils) - Solidity library to manipulate bits and bytes.
 
-<img src="https://github-readme-stats.vercel.app/api?username=cj42&count_private=true&show_icons=true&include_all_commits=true" align="left" alt="Jean's Github Stats" height="auto"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cj42&hide=TeX&layout=compact" alt="Jean's Github Stats" align="right" height="auto"/>
+
+
 
