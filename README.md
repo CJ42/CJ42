@@ -23,7 +23,7 @@ I am also the 📓 Author of the [**All About Solidity Book**](https://leanpub.c
 - [LUKSO LSP Recipes to build new protocols](https://www.youtube.com/watch?v=cx7EHlP6BZM&pp=ygUOamVhbiBjYXZhbGxlcmE%3D)
 - LUKSO Standard Proposal Workshops for BuildUP #2 Hackathon - [Episode 1](https://www.youtube.com/watch?v=PrXVcRL1n98) | [Episode 2](https://www.youtube.com/watch?v=xQV2l7VSRZ0)
 
-<br/> 
+> **Note:** are you non-technical and stumbled on this page? The code below is an example smart contract written in Solidity to represent my Github profile as a smart contract! Built for fun and to highlight my passion!
 
 ```solidity title="GitHubProfile.sol"
 // SPDX-License-Identifier: MIT
@@ -31,6 +31,10 @@ pragma solidity ^0.8.0;
 
 import { Ownable } from "@openzeppelin/contracts/access/Ownable.sol";
 
+/**
+ * @title GitHubProfile
+ * @dev A contract to store and manage personal and professional information on GitHub.
+ */
 contract GitHubProfile is Ownable(0xB82023c6d61C60E8715db485066542d501A91140) { // cj42.eth
 
     struct Github {
@@ -38,20 +42,25 @@ contract GitHubProfile is Ownable(0xB82023c6d61C60E8715db485066542d501A91140) { 
         string url;
     }
 
-    Github githubInfos;
+    Github private githubInfos;
 
-    /// @dev Set as constant as assigned at birth (and not planning to change it!)
+    /// @notice Constant first name, assigned at contract deployment
     string public constant FIRST_NAME = "Jean";
+    
+    /// @notice The current job title
     string public job;
 
+    /// @notice A list of skills
     string[] public skills;
 
+    /**
+     * @dev Initializes the contract with default values for GitHub information, job title, and skills.
+     */
     constructor() {
         githubInfos.username = "CJ42";
         githubInfos.url = "https://github.com/CJ42";
-
         job = "Smart Contract Team Lead at LUKSO";
-        
+
         skills.push("Solidity");
         skills.push("Smart Contracts");
         skills.push("Blockchain");
@@ -59,16 +68,37 @@ contract GitHubProfile is Ownable(0xB82023c6d61C60E8715db485066542d501A91140) { 
         skills.push("React");
     }
 
+    /**
+     * @notice Updates the job title
+     * @param newJob The new job title to set
+     * @dev Only the contract owner can call this function
+     */
     function updateJob(string memory newJob) public onlyOwner {
         job = newJob;
     }
 
+    /**
+     * @notice Adds a new skill to the skills array
+     * @param newSkill The new skill to add
+     */
     function addSkill(string memory newSkill) public {
         skills.push(newSkill);
     }
 
+    /**
+     * @notice Retrieves the list of skills
+     * @return An array of strings representing the skills
+     */
     function getSkills() public view returns (string[] memory) {
         return skills;
+    }
+
+    /**
+     * @notice Retrieves the GitHub username and URL
+     * @return A tuple containing the GitHub username and URL
+     */
+    function getGithubInfo() public view returns (string memory, string memory) {
+        return (githubInfos.username, githubInfos.url);
     }
 }
 ```
