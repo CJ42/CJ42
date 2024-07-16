@@ -1,8 +1,11 @@
-## Hi there 👋
+## Welcome to my Github Profile! 👋 
 
-Welcome to my Github profile! I am Jean (French as you might guess from the first name! 🥖🥐).
-I am a passionate developer, working on blockchain and web3 technologies for the last 6 years.
-I am specialised in Smart Contracts, EVM and Solidity, and the author of the [**All About Solidity** article series](https://medium.com/me/stories/public) on Medium + the newly released [**All About Solidity Book**](https://leanpub.com/all-about-solidity-book#:~:text=A%20developer%20guide%20for%20smart,build%20new%20protocols%20and%20dApps.&text=Discover%20the%20secrets%20of%20the,About%20Solidity%22%20for%20a%20reason!)! 📑📖 
+![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2FJeanCavallera&style=social&label=Follow%20Me&labelColor=1DA1F2)
+![Contact Me](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&labelColor=0A66C2&color=0A66C2&logoColor=white&label=%20&url=https://www.linkedin.com/in/jeancav/)
+
+I am Jean (French as you might guess! 🥖🥐), a passionate web3 developer, specialised in Smart Contracts, EVM and Solidity.
+
+I am the author of the [**All About Solidity** article series](https://medium.com/me/stories/public) on Medium + the newly released [**All About Solidity Book**](https://leanpub.com/all-about-solidity-book#:~:text=A%20developer%20guide%20for%20smart,build%20new%20protocols%20and%20dApps.&text=Discover%20the%20secrets%20of%20the,About%20Solidity%22%20for%20a%20reason!)! 📑📖 
 
 - 🔭 **I’m currently working** as a Smart Contract Team Lead at LUKSO.
 - 🌱 **I’m currently learning** and expanding my knowledge on Defi.
