@@ -1,3 +1,8 @@
+<style>
+    #talks-presentation {
+        border-bottom: none !important;
+    }
+</style>
 ## Welcome to my GitHub Profile! 👋 
 
 <a href="https://leanpub.com/all-about-solidity-book#:~:text=A%20developer%20guide%20for%20smart,build%20new%20protocols%20and%20dApps.&text=Discover%20the%20secrets%20of%20the,About%20Solidity%22%20for%20a%20reason!" target="_blank"><img src="https://d2sofvawe08yqg.cloudfront.net/all-about-solidity-book/s_hero?1715538832" alt="side Gif" style="z-index: 99999999" align="right" height="auto"/></a>
@@ -16,7 +21,7 @@ I am also the 📓 Author of the [**All About Solidity Book**](https://leanpub.c
 - 🤝🏻 **Looking to collaborate on:** any web3 protocol or project.
 - 💬 **Ask me anything about:** smart contracts and Solidity! 🫡
 
-<h2 style="border-bottom: none !important;">🎙️ Talks & Presentations</h2>
+<h2 id="talks-presentations">🎙️ Talks & Presentations</h2>
 
 - [Building a POAP using the LSP8 Standard - Eth Denver 2024 Workshop.](https://www.youtube.com/watch?v=ff_IYOuQn_s&pp=ygUOamVhbiBjYXZhbGxlcmE%3D)
 - [The Bytecode Episode #4 - Explaining the LSP6 Key Manager](https://www.youtube.com/watch?v=2Sm9LsCPjdE)
@@ -29,9 +34,8 @@ pragma solidity ^0.8.0;
 
 import { Ownable } from "@openzeppelin/contracts/access/Ownable.sol";
 
-contract GitHubProfile is Ownable(
-    0xB82023c6d61C60E8715db485066542d501A91140 // cj42.eth
-) {
+contract GitHubProfile is Ownable(0xB82023c6d61C60E8715db485066542d501A91140) { // cj42.eth
+
     struct Github {
         string username;
         string url;
@@ -39,8 +43,7 @@ contract GitHubProfile is Ownable(
 
     Github githubInfos;
 
-    /// @dev Set as constant as set on birth 
-    /// (not planning to change it!)
+    /// @dev Set as constant as assigned at birth (and not planning to change it!)
     string public constant FIRST_NAME = "Jean";
     string public job;
 
@@ -71,10 +74,7 @@ contract GitHubProfile is Ownable(
         return skills;
     }
 }
-
 ```
-
-
 
 <!--
 **CJ42/CJ42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -84,7 +84,7 @@ Here are some ideas to get you started:
 - 🤔 **I’m looking for help** with front-end web design to 
 -->
 
-<h2 style="border-bottom: none !important;">🌟 Featured Projects</h2>
+## 🌟 Featured Projects
 
 - **All About Solidity**
     - [The Book](https://leanpub.com/all-about-solidity-book#:~:text=A%20developer%20guide%20for%20smart,build%20new%20protocols%20and%20dApps.&text=Discover%20the%20secrets%20of%20the,About%20Solidity%22%20for%20a%20reason!)
