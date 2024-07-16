@@ -3,12 +3,14 @@
 <a href="https://leanpub.com/all-about-solidity-book#:~:text=A%20developer%20guide%20for%20smart,build%20new%20protocols%20and%20dApps.&text=Discover%20the%20secrets%20of%20the,About%20Solidity%22%20for%20a%20reason!" target="_blank"><img src="https://d2sofvawe08yqg.cloudfront.net/all-about-solidity-book/s_hero?1715538832" alt="side Gif" style="z-index: 99999999" align="right" height="auto"/></a>
 
 <div align="right">
+    
 - 📓 Author of the [**All About Solidity Book**](https://leanpub.com/all-about-solidity-book#:~:text=A%20developer%20guide%20for%20smart,build%20new%20protocols%20and%20dApps.&text=Discover%20the%20secrets%20of%20the,About%20Solidity%22%20for%20a%20reason!)!
 - 📑 Writer of the [**All About Solidity** article series](https://medium.com/me/stories/public) + 
 - 🔭 **Currently working as:** Smart Contract Team Lead at LUKSO.
 - 🌱 **Currently learning:** Defi.
 - 🤝🏻 **Looking to collaborate on:** any web3 protocol or project.
 - 💬 **Ask me anything about:** smart contracts and Solidity! 🫡
+
 </div>
 
 [![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2FJeanCavallera&style=social&label=Follow%20Me&labelColor=1DA1F2)](https://x.com/JeanCavallera)
