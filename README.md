@@ -6,10 +6,11 @@
 [![Contact Me](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&labelColor=0A66C2&color=0A66C2&logoColor=white&label=%20)](https://www.linkedin.com/in/jeancav/)
 [![Read My Articles](https://img.shields.io/static/v1?message=Medium&logo=medium&labelColor=000000&color=000000&logoColor=white&label=%20)](https://medium.com/@jeancvllr)
 [![Youtube videos](https://img.shields.io/static/v1?message=YouTube&logo=youtube&labelColor=FF0000&color=FF0000&logoColor=white&label=%20)](https://www.youtube.com/playlist?list=PLFb3VvViujW7bvEh_UdPChneZsZC8tXdZ)
+🥖🥐🇫🇷
 
-I am Jean (French as you might guess! 🥖🥐), a passionate web3 developer, specialised in Smart Contracts, EVM and Solidity.
+I am Jean a passionate web3 developer, specialised in smart contracts, EVM and Solidity.
 
-I am also the 📓 Author of the [**All About Solidity Book**](https://leanpub.com/all-about-solidity-book#:~:text=A%20developer%20guide%20for%20smart,build%20new%20protocols%20and%20dApps.&text=Discover%20the%20secrets%20of%20the,About%20Solidity%22%20for%20a%20reason!)! + the 📑 Writer of the [**All About Solidity** article series](https://medium.com/me/stories/public)
+Author of the 📓 [**All About Solidity Book**](https://leanpub.com/all-about-solidity-book#:~:text=A%20developer%20guide%20for%20smart,build%20new%20protocols%20and%20dApps.&text=Discover%20the%20secrets%20of%20the,About%20Solidity%22%20for%20a%20reason!)! + ✍🏼 [**All About Solidity** article series](https://medium.com/me/stories/public)
 
 - 🔭 **Currently working as:** Smart Contract Team Lead at LUKSO.
 - 🌱 **Currently learning:** Defi.
@@ -23,7 +24,7 @@ I am also the 📓 Author of the [**All About Solidity Book**](https://leanpub.c
 - [LUKSO LSP Recipes to build new protocols](https://www.youtube.com/watch?v=cx7EHlP6BZM&pp=ygUOamVhbiBjYXZhbGxlcmE%3D)
 - LUKSO Standard Proposal Workshops for BuildUP #2 Hackathon - [Episode 1](https://www.youtube.com/watch?v=PrXVcRL1n98) | [Episode 2](https://www.youtube.com/watch?v=xQV2l7VSRZ0)
 
-> **Note:** The code below is my GitHub profile as a smart contract written in Solidity!
+> **Note:** below is my GitHub profile as a smart contract code written in Solidity!
 
 ```solidity title="GitHubProfile.sol"
 // SPDX-License-Identifier: YOLO
