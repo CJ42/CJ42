@@ -7,7 +7,7 @@
 [![Read My Articles](https://img.shields.io/static/v1?message=Medium&logo=medium&labelColor=000000&color=000000&logoColor=white&label=%20)](https://medium.com/@jeancvllr)
 [![Youtube videos](https://img.shields.io/static/v1?message=YouTube&logo=youtube&labelColor=FF0000&color=FF0000&logoColor=white&label=%20)](https://www.youtube.com/playlist?list=PLFb3VvViujW7bvEh_UdPChneZsZC8tXdZ)
 
-I am Jean (French as you might guess! 🥖🥐), a self-taught passionate web3 developer, specialised in Smart Contracts, EVM and Solidity.
+I am Jean (French as you might guess! 🥖🥐), a passionate web3 developer, specialised in Smart Contracts, EVM and Solidity.
 
 Author of the 📑 [**All About Solidity** article series](https://medium.com/me/stories/public) + 📓 [**All About Solidity Book**](https://leanpub.com/all-about-solidity-book#:~:text=A%20developer%20guide%20for%20smart,build%20new%20protocols%20and%20dApps.&text=Discover%20the%20secrets%20of%20the,About%20Solidity%22%20for%20a%20reason!)!
 
@@ -66,6 +66,8 @@ contract GitHubProfile is Ownable(
 
 ```
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cj42&hide=TeX&layout=compact" alt="Jean's Github Stats" align="right" height="auto"/>
+
 <!--
 **CJ42/CJ42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -99,7 +101,7 @@ Here are some ideas to get you started:
 - [**Decentralised Relayer Contracts**](https://github.com/CJ42/contracts.any.sender) - optimised forked version of any.sender working with Solidity 0.8.x
 - [**Solidity Bytes Utils**](https://github.com/CJ42/Solidity-BytesUtils) - Solidity library to manipulate bits and bytes.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cj42&hide=TeX&layout=compact" alt="Jean's Github Stats" align="right" height="auto"/>
+
 
 <h2 style="border-bottom: none !important;">🎙️ Talks & Presentations</h2>
 
