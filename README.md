@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 🤔 **I’m looking for help** with front-end web design to 
 -->
 
-## 🌟 Featured Projects
+<h2>🌟 Featured Projects</h2>
 
 - **All About Solidity**
     - [The Book](https://leanpub.com/all-about-solidity-book#:~:text=A%20developer%20guide%20for%20smart,build%20new%20protocols%20and%20dApps.&text=Discover%20the%20secrets%20of%20the,About%20Solidity%22%20for%20a%20reason!)
@@ -39,9 +39,9 @@ Here are some ideas to get you started:
 
 ### 💝 LUKSO Featured
 
-- [Twitter UP dApp](https://github.com/CJ42/twitter-up-dapp).
-- [LUKSO Hardhat Template](https://github.com/CJ42/LUKSO-Hardhat-template).
-- [LUKSO Forge Template](https://github.com/CJ42/lukso-forge-template).
+- [Twitter UP dApp](https://github.com/CJ42/twitter-up-dapp)
+- [LUKSO Hardhat Template](https://github.com/CJ42/LUKSO-Hardhat-template)
+- [LUKSO Forge Template](https://github.com/CJ42/lukso-forge-template)
 
 ### 👨🏻‍🍳 Ongoing projects I am cooking
 
@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cj42&hide=TeX&layout=compact" alt="Jean's Github Stats" align="right" height="auto"/>
 
-## 🎙️ Talks & Presentations
+<h2>🎙️ Talks & Presentations</h2>
 
 - [Building a POAP using the LSP8 Standard - Eth Denver 2024 Workshop.](https://www.youtube.com/watch?v=ff_IYOuQn_s&pp=ygUOamVhbiBjYXZhbGxlcmE%3D)
 - [The Bytecode Episode #4 - Explaining the LSP6 Key Manager](https://www.youtube.com/watch?v=2Sm9LsCPjdE)
