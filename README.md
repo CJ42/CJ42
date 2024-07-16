@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 🤔 **I’m looking for help** with front-end web design to 
 -->
 
-<h2 style="border-bottom: none">🌟 Featured Projects</h2>
+<h2 style="border-bottom: none !important;">🌟 Featured Projects</h2>
 
 - **All About Solidity**
     - [The Book](https://leanpub.com/all-about-solidity-book#:~:text=A%20developer%20guide%20for%20smart,build%20new%20protocols%20and%20dApps.&text=Discover%20the%20secrets%20of%20the,About%20Solidity%22%20for%20a%20reason!)
@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cj42&hide=TeX&layout=compact" alt="Jean's Github Stats" align="right" height="auto"/>
 
-<h2 style="border-bottom: none">🎙️ Talks & Presentations</h2>
+<h2 style="border-bottom: none !important;">🎙️ Talks & Presentations</h2>
 
 - [Building a POAP using the LSP8 Standard - Eth Denver 2024 Workshop.](https://www.youtube.com/watch?v=ff_IYOuQn_s&pp=ygUOamVhbiBjYXZhbGxlcmE%3D)
 - [The Bytecode Episode #4 - Explaining the LSP6 Key Manager](https://www.youtube.com/watch?v=2Sm9LsCPjdE)
