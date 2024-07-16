@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 - [Bitcoin Core Alpha release](https://github.com/CJ42/original-bitcoin-core-code-explained) - Deep Dive into the C++ source code.
 
 
+<img src="https://github-readme-stats.vercel.app/api?username=cj42&count_private=true&show_icons=true&include_all_commits=true" align="right" alt="Jean's Github Stats" height="auto"/>
 
 ### 💝 LUKSO Featured
 
@@ -48,6 +49,8 @@ Here are some ideas to get you started:
 - [**Decentralised Relayer Contracts**](https://github.com/CJ42/contracts.any.sender) - optimised forked version of any.sender working with Solidity 0.8.x
 - [**Solidity Bytes Utils**](https://github.com/CJ42/Solidity-BytesUtils) - Solidity library to manipulate bits and bytes.
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cj42&hide=TeX&layout=compact" alt="Jean's Github Stats" align="right" height="auto"/>
+
 ## 🎙️ Talks & Presentations
 
 - [Building a POAP using the LSP8 Standard - Eth Denver 2024 Workshop.](https://www.youtube.com/watch?v=ff_IYOuQn_s&pp=ygUOamVhbiBjYXZhbGxlcmE%3D)
@@ -55,5 +58,4 @@ Here are some ideas to get you started:
 - [LUKSO LSP Recipes to build new protocols](https://www.youtube.com/watch?v=cx7EHlP6BZM&pp=ygUOamVhbiBjYXZhbGxlcmE%3D)
 - LUKSO Standard Proposal Workshops for BuildUP #2 Hackathon - [Episode 1](https://www.youtube.com/watch?v=PrXVcRL1n98) | [Episode 2](https://www.youtube.com/watch?v=xQV2l7VSRZ0)
 
-<img src="https://github-readme-stats.vercel.app/api?username=cj42&count_private=true&show_icons=true&include_all_commits=true" alt="Jean's Github Stats" height="auto"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cj42&hide=TeX&layout=compact" alt="Jean's Github Stats" align="right" height="auto"/>
+
