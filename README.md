@@ -152,10 +152,10 @@ contract GitHubProfile is Ownable(0xB82023c6d61C60E8715db485066542d501A91140) { 
 )
     - [Repository with more in-depth explanations and code examples](https://github.com/CJ42/All-About-Solidity).
 - [Blockchain Academic References](https://github.com/CJ42/Blockchain-Academic-References)
-- [Bitcoin Core Alpha release](https://github.com/CJ42/original-bitcoin-core-code-explained) - Deep Dive into the C++ source code.
 
-<br/>
 <img src="https://github-readme-stats.vercel.app/api?username=cj42&count_private=true&show_icons=true&include_all_commits=true" align="right" alt="Jean's Github Stats" height="auto"/>
+
+- [Bitcoin Core Alpha release](https://github.com/CJ42/original-bitcoin-core-code-explained) - Deep Dive into the C++ source code.
 
 ### 💝 LUKSO Featured
 
