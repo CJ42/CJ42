@@ -16,8 +16,6 @@ Author of the 📑 [**All About Solidity** article series](https://medium.com/me
 - 🤝🏻 **Looking to collaborate on:** any web3 protocol or project.
 - 💬 **Ask me anything about:** smart contracts and Solidity! 🫡
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cj42&hide=TeX&layout=compact" alt="Jean's Github Stats" align="right" height="auto"/>
-
 ```solidity title="GitHubProfile.sol"
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
@@ -90,7 +88,8 @@ Here are some ideas to get you started:
 - [Bitcoin Core Alpha release](https://github.com/CJ42/original-bitcoin-core-code-explained) - Deep Dive into the C++ source code.
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=cj42&count_private=true&show_icons=true&include_all_commits=true" align="right" alt="Jean's Github Stats" height="auto"/>
+<img src="https://github-readme-stats.vercel.app/api?username=cj42&count_private=true&show_icons=true&include_all_commits=true" align="left" alt="Jean's Github Stats" height="auto"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cj42&hide=TeX&layout=compact" alt="Jean's Github Stats" align="right" height="auto"/>
 
 ### 💝 LUKSO Featured
 
