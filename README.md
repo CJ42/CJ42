@@ -23,6 +23,8 @@ I am also the 📓 Author of the [**All About Solidity Book**](https://leanpub.c
 - [LUKSO LSP Recipes to build new protocols](https://www.youtube.com/watch?v=cx7EHlP6BZM&pp=ygUOamVhbiBjYXZhbGxlcmE%3D)
 - LUKSO Standard Proposal Workshops for BuildUP #2 Hackathon - [Episode 1](https://www.youtube.com/watch?v=PrXVcRL1n98) | [Episode 2](https://www.youtube.com/watch?v=xQV2l7VSRZ0)
 
+<br/> 
+
 ```solidity title="GitHubProfile.sol"
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
