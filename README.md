@@ -1,6 +1,14 @@
 ## Welcome to my GitHub Profile! 👋 
 
-<a href="https://leanpub.com/all-about-solidity-book#:~:text=A%20developer%20guide%20for%20smart,build%20new%20protocols%20and%20dApps.&text=Discover%20the%20secrets%20of%20the,About%20Solidity%22%20for%20a%20reason!" target="_blank"><img src="https://d2sofvawe08yqg.cloudfront.net/all-about-solidity-book/s_hero?1715538832" alt="side Gif" style="z-index: 99999999" align="right" height="auto"/></a>
+<!--
+**CJ42/CJ42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+- ⚡ Fun fact: ...
+- 🤔 **I’m looking for help** with front-end web design to 
+-->
+
+<a href="https://leanpub.com/all-about-solidity-book#:~:text=A%20developer%20guide%20for%20smart,build%20new%20protocols%20and%20dApps.&text=Discover%20the%20secrets%20of%20the,About%20Solidity%22%20for%20a%20reason!" target="_blank"><img src="https://d2sofvawe08yqg.cloudfront.net/all-about-solidity-book/s_hero?1715538832" alt="side Gif" align="right" height="auto"/></a>
 
 [![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2FJeanCavallera&style=social&label=Follow%20Me&labelColor=1DA1F2)](https://x.com/JeanCavallera)
 [![Contact Me](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&labelColor=0A66C2&color=0A66C2&logoColor=white&label=%20)](https://www.linkedin.com/in/jeancav/)
@@ -27,6 +35,8 @@ Author of the 📓 [**All About Solidity Book**](https://leanpub.com/all-about-s
 > **Note:** below is my GitHub profile as a smart contract code in Solidity!
 
 <br/>
+
+<div style="height: 500px; overflow-y: scroll !important;">
 
 ```solidity title="GitHubProfile.sol"
 // SPDX-License-Identifier: YOLO
@@ -124,13 +134,9 @@ contract GitHubProfile is Ownable(0xB82023c6d61C60E8715db485066542d501A91140) { 
 }
 ```
 
-<!--
-**CJ42/CJ42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
 
-Here are some ideas to get you started:
-- ⚡ Fun fact: ...
-- 🤔 **I’m looking for help** with front-end web design to 
--->
+
 
 ## 🌟 Featured Projects
 
