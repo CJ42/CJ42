@@ -34,7 +34,7 @@ contract GitHubProfile is Ownable(
 
     /// @dev Set as constant as set on birth (not planning to change it!)
     string public constant FIRST_NAME = "Jean";
-    string public jobTitle;
+    string public job;
 
     string[] public skills;
 
@@ -42,7 +42,7 @@ contract GitHubProfile is Ownable(
         githubInfos.username = "CJ42";
         githubInfos.url = "https://github.com/CJ42";
 
-        jobTitle = "Smart Contract Team Lead at LUKSO";
+        job = "Smart Contract Team Lead at LUKSO";
         
         skills.push("Solidity");
         skills.push("Smart Contracts");
@@ -51,8 +51,8 @@ contract GitHubProfile is Ownable(
         skills.push("React");
     }
 
-    function updateJobTitle(string memory newJob) public onlyOwner {
-        jobTitle = newJob;
+    function updateJob(string memory newJob) public onlyOwner {
+        job = newJob;
     }
 
     function addSkill(string memory newSkill) public {
