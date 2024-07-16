@@ -9,7 +9,7 @@
 
 I am Jean (French as you might guess! 🥖🥐), a self-taught passionate web3 developer, specialised in Smart Contracts, EVM and Solidity.
 
-I am the author of the 📑 [**All About Solidity** article series](https://medium.com/me/stories/public) + the newly released 📓 [**All About Solidity Book**](https://leanpub.com/all-about-solidity-book#:~:text=A%20developer%20guide%20for%20smart,build%20new%20protocols%20and%20dApps.&text=Discover%20the%20secrets%20of%20the,About%20Solidity%22%20for%20a%20reason!)!
+Author of the 📑 [**All About Solidity** article series](https://medium.com/me/stories/public) + 📓 [**All About Solidity Book**](https://leanpub.com/all-about-solidity-book#:~:text=A%20developer%20guide%20for%20smart,build%20new%20protocols%20and%20dApps.&text=Discover%20the%20secrets%20of%20the,About%20Solidity%22%20for%20a%20reason!)!
 
 - 🔭 **Currently working as:** Smart Contract Team Lead at LUKSO.
 - 🌱 **Currently learning:** Defi.
@@ -31,9 +31,6 @@ Here are some ideas to get you started:
     - [The Article Series](https://medium.com/coinmonks/all-about-solidity-article-series-f57be7bf6746
 )
     - [Repository with more in-depth explanations and code examples](https://github.com/CJ42/All-About-Solidity).
- 
-<img src="https://github-readme-stats.vercel.app/api?username=cj42&count_private=true&show_icons=true&include_all_commits=true" alt="Jean's Github Stats" align="right" height="auto"/>
-
 - [Blockchain Academic References](https://github.com/CJ42/Blockchain-Academic-References)
 - [Bitcoin Core Alpha release](https://github.com/CJ42/original-bitcoin-core-code-explained) - Deep Dive into the C++ source code.
 
@@ -47,8 +44,6 @@ Here are some ideas to get you started:
 
 ### 👨🏻‍🍳 Ongoing projects I am cooking
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cj42&hide=TeX&layout=compact" alt="Jean's Github Stats" align="right" height="auto"/>
-
 - [**solidity-debugger.io**](https://solidity-debugger.io/) - curated list of Solidity errors and warnings + their explanations and how to fix them.
 - [**Decentralised Relayer Contracts**](https://github.com/CJ42/contracts.any.sender) - optimised forked version of any.sender working with Solidity 0.8.x
 - [**Solidity Bytes Utils**](https://github.com/CJ42/Solidity-BytesUtils) - Solidity library to manipulate bits and bytes.
@@ -59,3 +54,6 @@ Here are some ideas to get you started:
 - [The Bytecode Episode #4 - Explaining the LSP6 Key Manager](https://www.youtube.com/watch?v=2Sm9LsCPjdE)
 - [LUKSO LSP Recipes to build new protocols](https://www.youtube.com/watch?v=cx7EHlP6BZM&pp=ygUOamVhbiBjYXZhbGxlcmE%3D)
 - LUKSO Standard Proposal Workshops for BuildUP #2 Hackathon - [Episode 1](https://www.youtube.com/watch?v=PrXVcRL1n98) | [Episode 2](https://www.youtube.com/watch?v=xQV2l7VSRZ0)
+
+<img src="https://github-readme-stats.vercel.app/api?username=cj42&count_private=true&show_icons=true&include_all_commits=true" alt="Jean's Github Stats" height="auto"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cj42&hide=TeX&layout=compact" alt="Jean's Github Stats" align="right" height="auto"/>
