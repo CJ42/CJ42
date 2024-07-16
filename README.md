@@ -110,9 +110,8 @@ contract GitHubProfile is Ownable(0xB82023c6d61C60E8715db485066542d501A91140) { 
     /// @param newJob The new job title to set
     /// @dev Only the contract owner (CJ42.eth) can call this function
     function updateJob(string memory newJob) public onlyOwner {
-        string memory oldJob = job;
+        emit JobChanged(job, newJob);
         job = newJob;
-        emit JobChanged(oldJob, newJob);
     }
 
     /// @notice Adding a new skill `newSkill` to the list
