@@ -61,7 +61,7 @@ import { Ownable } from "@openzeppelin/contracts/access/Ownable.sol";
 
 /// @title GitHubProfile
 /// @dev A contract to store and manage your GitHub profile information.
-contract GitHubProfile is Ownable(0xB82023c6d61C60E8715db485066542d501A91140) { // cj42.eth
+contract GitHubProfile is Ownable(0xC0Dec0dec0DeC0Dec0dEc0DEC0DEC0DEC0DEC0dE) {
 
     /// @dev Event emitted when the profile is created
     event ProfileCreated(string username, string url, string job, string[] skills);
