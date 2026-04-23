@@ -38,9 +38,8 @@ Author of the 📓 [**All About Solidity Book**](https://leanpub.com/all-about-s
 
 > **Note:** below is my GitHub profile as a smart contract code in Solidity!
 
-<br/>
-
-<div style="height: 500px; overflow-y: scroll !important;">
+<details>
+    <summary>See <code>GitHubProfile.sol</code></summary>
 
 ```solidity title="GitHubProfile.sol"
 // SPDX-License-Identifier: YOLO
@@ -136,6 +135,12 @@ contract GitHubProfile is Ownable(0xC0Dec0dec0DeC0Dec0dEc0DEC0DEC0DEC0DEC0dE) {
     }
 }
 ```
+    
+</details>
+
+<div style="height: 500px; overflow-y: scroll !important;">
+
+
 
 </div>
 
