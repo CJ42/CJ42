@@ -24,8 +24,8 @@ I am Jean a passionate full stack software engineer, focused on Web3 development
 
 Author of the 📓 [**All About Solidity Book**](https://leanpub.com/all-about-solidity-book#:~:text=A%20developer%20guide%20for%20smart,build%20new%20protocols%20and%20dApps.&text=Discover%20the%20secrets%20of%20the,About%20Solidity%22%20for%20a%20reason!)! + ✍🏼 [**All About Solidity** article series](https://medium.com/me/stories/public)
 
-- 🔭 **Currently working as:** Smart Contract Team Lead at LUKSO.
-- 🌱 **Currently learning:** Defi.
+- 🔭 **Currently working as:** Lead Smart Contract Engineer at LUKSO.
+- 🌱 **Currently learning:** AI engineering, latest DeFi protocols (Aave v4, Morpho Midnight).
 - 🤝🏻 **Looking to collaborate on:** any web3 protocol or project.
 - 💬 **Ask me anything about:** smart contracts and Solidity! 🫡 
 
@@ -171,3 +171,17 @@ contract GitHubProfile is Ownable(0xC0Dec0dec0DeC0Dec0dEc0DEC0DEC0DEC0DEC0dE) {
 - [**solidity-debugger.io**](https://solidity-debugger.io/) - curated list of Solidity errors and warnings + their explanations and how to fix them.
 - [**Decentralised Relayer Contracts**](https://github.com/CJ42/contracts.any.sender) - optimised forked version of any.sender working with Solidity 0.8.x
 - [**Solidity Bytes Utils**](https://github.com/CJ42/Solidity-BytesUtils) - Solidity library to manipulate bits and bytes.
+
+### Languages & Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,solidity,python&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,bun,pnnpm&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,mongodb,postgresql,mysql,tailwind,figma,git,bash,vscode,cursor&theme=dark" />
+</p>
