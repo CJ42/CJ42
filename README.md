@@ -172,7 +172,7 @@ contract GitHubProfile is Ownable(0xC0Dec0dec0DeC0Dec0dEc0DEC0DEC0DEC0DEC0dE) {
 - [**Decentralised Relayer Contracts**](https://github.com/CJ42/contracts.any.sender) - optimised forked version of any.sender working with Solidity 0.8.x
 - [**Solidity Bytes Utils**](https://github.com/CJ42/Solidity-BytesUtils) - Solidity library to manipulate bits and bytes.
 
-### Languages & Skills
+### Languages & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,solidity,python&theme=dark" />
