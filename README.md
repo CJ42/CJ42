@@ -24,7 +24,7 @@ I am Jean a passionate full stack software engineer, focused on Web3 development
 
 Author of the 📓 [**All About Solidity Book**](https://leanpub.com/all-about-solidity-book#:~:text=A%20developer%20guide%20for%20smart,build%20new%20protocols%20and%20dApps.&text=Discover%20the%20secrets%20of%20the,About%20Solidity%22%20for%20a%20reason!)! + ✍🏼 [**All About Solidity** article series](https://medium.com/me/stories/public)
 
-- 🔭 **Currently working as:** Lead Smart Contract Engineer at LUKSO.
+<!-- - 🔭 **Currently working as:** Lead Smart Contract Engineer at LUKSO. -->
 - 🌱 **Currently learning:** AI engineering, latest DeFi protocols (Aave v4, Morpho Midnight).
 - 🤝🏻 **Looking to collaborate on:** any web3 protocol or project.
 - 💬 **Ask me anything about:** smart contracts and Solidity! 🫡 
