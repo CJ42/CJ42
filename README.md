@@ -19,27 +19,14 @@ Here are some ideas to get you started:
 [![Read My Articles](https://img.shields.io/static/v1?message=Medium&logo=medium&labelColor=000000&color=000000&logoColor=white&label=%20)](https://medium.com/@jeancvllr)
 [![Youtube videos](https://img.shields.io/static/v1?message=YouTube&logo=youtube&labelColor=FF0000&color=FF0000&logoColor=white&label=%20)](https://www.youtube.com/playlist?list=PLFb3VvViujW7bvEh_UdPChneZsZC8tXdZ)
 
-I am Jean a passionate full-stack software engineer, focused on Web3 development, specialised in smart contracts and Solidity.
+I am Jean, a full-stack software engineer, passionate about AI and Web3.
 
 <!-- - 🔭 **Currently working as:** Lead Smart Contract Engineer at LUKSO. -->
-- 🌱 **Currently learning:** AI engineering, latest DeFi protocols (Aave v4, Morpho Midnight, 1Inch Aqua + Swap VM).
+- 🌱 **Currently learning:** AI engineering, latest DeFi protocols (Aave v4, Morpho Midnight).
 - 🤝🏻 **Looking to collaborate on:** any web3 protocol or AI project.
-- 💬 **Ask me anything about:** building AI harnesses, vector DB, RAG, smart contracts, and Solidity! 🫡 
+- 💬 **Ask me anything about:** building AI harnesses, vector DBs, RAG, smart contracts, and Solidity! 🫡 
 
-## 🩶 Author of All About Solidity
-- [📓 The Book](https://leanpub.com/all-about-solidity-book#:~:text=A%20developer%20guide%20for%20smart,build%20new%20protocols%20and%20dApps.&text=Discover%20the%20secrets%20of%20the,About%20Solidity%22%20for%20a%20reason!)
-- [📝 The Article Series](https://medium.com/coinmonks/all-about-solidity-article-series-f57be7bf6746)
-- [🐜 **solidity-debugger.io**](https://solidity-debugger.io/) - curated list of Solidity errors and warnings + their explanations and how to fix them.
-- [🔎 Repository with more in-depth explanations and code examples](https://github.com/CJ42/All-About-Solidity).
-
-## 🎙️ Talks & Presentations
-
-- [Building a POAP using the LSP8 Standard - Eth Denver 2024 Workshop.](https://www.youtube.com/watch?v=ff_IYOuQn_s&pp=ygUOamVhbiBjYXZhbGxlcmE%3D)
-- [The Bytecode Episode #4 - Explaining the LSP6 Key Manager](https://www.youtube.com/watch?v=2Sm9LsCPjdE)
-- [LUKSO LSP Recipes to build new protocols](https://www.youtube.com/watch?v=cx7EHlP6BZM&pp=ygUOamVhbiBjYXZhbGxlcmE%3D)
-- LUKSO Standard Proposal Workshops for BuildUP #2 Hackathon - [Episode 1](https://www.youtube.com/watch?v=PrXVcRL1n98) | [Episode 2](https://www.youtube.com/watch?v=xQV2l7VSRZ0)
-
-> **Note:** below is my GitHub profile as a smart contract code in Solidity!
+> Below is my GitHub profile as a smart contract code in Solidity!
 
 <details>
     <summary>See <code>GitHubProfile.sol</code></summary>
@@ -140,6 +127,21 @@ contract GitHubProfile is Ownable(0xC0Dec0dec0DeC0Dec0dEc0DEC0DEC0DEC0DEC0dE) {
 ```
     
 </details>
+
+
+## 🩶 Author of All About Solidity
+- [📓 The Book](https://leanpub.com/all-about-solidity-book#:~:text=A%20developer%20guide%20for%20smart,build%20new%20protocols%20and%20dApps.&text=Discover%20the%20secrets%20of%20the,About%20Solidity%22%20for%20a%20reason!)
+- [📝 The Article Series](https://medium.com/coinmonks/all-about-solidity-article-series-f57be7bf6746)
+- [🐜 **solidity-debugger.io**](https://solidity-debugger.io/) - curated list of Solidity errors and warnings + their explanations and how to fix them.
+- [🔎 Repository with more in-depth explanations and code examples](https://github.com/CJ42/All-About-Solidity).
+
+## 🎙️ Talks & Presentations
+
+- [Building a POAP using the LSP8 Standard - Eth Denver 2024 Workshop.](https://www.youtube.com/watch?v=ff_IYOuQn_s&pp=ygUOamVhbiBjYXZhbGxlcmE%3D)
+- [The Bytecode Episode #4 - Explaining the LSP6 Key Manager](https://www.youtube.com/watch?v=2Sm9LsCPjdE)
+- [LUKSO LSP Recipes to build new protocols](https://www.youtube.com/watch?v=cx7EHlP6BZM&pp=ygUOamVhbiBjYXZhbGxlcmE%3D)
+- LUKSO Standard Proposal Workshops for BuildUP #2 Hackathon - [Episode 1](https://www.youtube.com/watch?v=PrXVcRL1n98) | [Episode 2](https://www.youtube.com/watch?v=xQV2l7VSRZ0)
+
 
 <div style="height: 500px; overflow-y: scroll !important;">
 
