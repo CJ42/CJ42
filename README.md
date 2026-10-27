@@ -151,20 +151,12 @@ contract GitHubProfile is Ownable(0xC0Dec0dec0DeC0Dec0dEc0DEC0DEC0DEC0DEC0dE) {
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cj42&hide=TeX&layout=compact" alt="Jean's Github Stats" align="right" height="auto"/>
 
 - **All About Solidity**
-    - [The Book](https://leanpub.com/all-about-solidity-book#:~:text=A%20developer%20guide%20for%20smart,build%20new%20protocols%20and%20dApps.&text=Discover%20the%20secrets%20of%20the,About%20Solidity%22%20for%20a%20reason!)
-    - [The Article Series](https://medium.com/coinmonks/all-about-solidity-article-series-f57be7bf6746
+    - [📓 The Book](https://leanpub.com/all-about-solidity-book#:~:text=A%20developer%20guide%20for%20smart,build%20new%20protocols%20and%20dApps.&text=Discover%20the%20secrets%20of%20the,About%20Solidity%22%20for%20a%20reason!)
+    - [📝 The Article Series](https://medium.com/coinmonks/all-about-solidity-article-series-f57be7bf6746
 )
     - [Repository with more in-depth explanations and code examples](https://github.com/CJ42/All-About-Solidity).
 - [Blockchain Academic References](https://github.com/CJ42/Blockchain-Academic-References)
 - [Bitcoin Core Alpha release](https://github.com/CJ42/original-bitcoin-core-code-explained) - Deep Dive into the C++ source code.
-
-### 💝 LUKSO Featured
-
-<img src="https://github-readme-stats.vercel.app/api?username=cj42&count_private=true&show_icons=true&include_all_commits=true" align="right" alt="Jean's Github Stats" width="auto" height="auto"/>
-
-- [Twitter UP dApp](https://github.com/CJ42/twitter-up-dapp)
-- [LUKSO Hardhat Template](https://github.com/CJ42/LUKSO-Hardhat-template)
-- [LUKSO Forge Template](https://github.com/CJ42/lukso-forge-template)
 
 ### 👨🏻‍🍳 Ongoing projects I am cooking
 
