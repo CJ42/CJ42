@@ -19,16 +19,14 @@ Here are some ideas to get you started:
 [![Read My Articles](https://img.shields.io/static/v1?message=Medium&logo=medium&labelColor=000000&color=000000&logoColor=white&label=%20)](https://medium.com/@jeancvllr)
 [![Youtube videos](https://img.shields.io/static/v1?message=YouTube&logo=youtube&labelColor=FF0000&color=FF0000&logoColor=white&label=%20)](https://www.youtube.com/playlist?list=PLFb3VvViujW7bvEh_UdPChneZsZC8tXdZ)
 
-I am Jean a passionate full stack software engineer, focused on Web3 development, specialised in smart contracts and Solidity.
-
-Author of the 📓 [**All About Solidity Book**](https://leanpub.com/all-about-solidity-book#:~:text=A%20developer%20guide%20for%20smart,build%20new%20protocols%20and%20dApps.&text=Discover%20the%20secrets%20of%20the,About%20Solidity%22%20for%20a%20reason!)! + ✍🏼 [**All About Solidity** article series](https://medium.com/me/stories/public)
+I am Jean a passionate full-stack software engineer, focused on Web3 development, specialised in smart contracts and Solidity.
 
 <!-- - 🔭 **Currently working as:** Lead Smart Contract Engineer at LUKSO. -->
-- 🌱 **Currently learning:** AI engineering, latest DeFi protocols (Aave v4, Morpho Midnight).
-- 🤝🏻 **Looking to collaborate on:** any web3 protocol or project.
-- 💬 **Ask me anything about:** smart contracts and Solidity! 🫡 
+- 🌱 **Currently learning:** AI engineering, latest DeFi protocols (Aave v4, Morpho Midnight, 1Inch Aqua + Swap VM).
+- 🤝🏻 **Looking to collaborate on:** any web3 protocol or AI project.
+- 💬 **Ask me anything about:** building AI harnesses, vector DB, RAG, smart contracts, and Solidity! 🫡 
 
-## 🩶 All About Solidity
+## 🩶 Author of All About Solidity
 - [📓 The Book](https://leanpub.com/all-about-solidity-book#:~:text=A%20developer%20guide%20for%20smart,build%20new%20protocols%20and%20dApps.&text=Discover%20the%20secrets%20of%20the,About%20Solidity%22%20for%20a%20reason!)
 - [📝 The Article Series](https://medium.com/coinmonks/all-about-solidity-article-series-f57be7bf6746)
 - [🐜 **solidity-debugger.io**](https://solidity-debugger.io/) - curated list of Solidity errors and warnings + their explanations and how to fix them.
