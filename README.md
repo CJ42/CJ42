@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 [![Contact Me](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&labelColor=0A66C2&color=0A66C2&logoColor=white&label=%20)](https://www.linkedin.com/in/jeancav/)
 [![Read My Articles](https://img.shields.io/static/v1?message=Medium&logo=medium&labelColor=000000&color=000000&logoColor=white&label=%20)](https://medium.com/@jeancvllr)
 [![Youtube videos](https://img.shields.io/static/v1?message=YouTube&logo=youtube&labelColor=FF0000&color=FF0000&logoColor=white&label=%20)](https://www.youtube.com/playlist?list=PLFb3VvViujW7bvEh_UdPChneZsZC8tXdZ)
-🥖🥐🇫🇷
 
 I am Jean a passionate full stack software engineer, focused on Web3 development, specialised in smart contracts and Solidity.
 
@@ -29,7 +28,13 @@ Author of the 📓 [**All About Solidity Book**](https://leanpub.com/all-about-s
 - 🤝🏻 **Looking to collaborate on:** any web3 protocol or project.
 - 💬 **Ask me anything about:** smart contracts and Solidity! 🫡 
 
-### 🎙️ Talks & Presentations
+## 🩶 All About Solidity
+- [📓 The Book](https://leanpub.com/all-about-solidity-book#:~:text=A%20developer%20guide%20for%20smart,build%20new%20protocols%20and%20dApps.&text=Discover%20the%20secrets%20of%20the,About%20Solidity%22%20for%20a%20reason!)
+- [📝 The Article Series](https://medium.com/coinmonks/all-about-solidity-article-series-f57be7bf6746)
+- [🐜 **solidity-debugger.io**](https://solidity-debugger.io/) - curated list of Solidity errors and warnings + their explanations and how to fix them.
+- [🔎 Repository with more in-depth explanations and code examples](https://github.com/CJ42/All-About-Solidity).
+
+## 🎙️ Talks & Presentations
 
 - [Building a POAP using the LSP8 Standard - Eth Denver 2024 Workshop.](https://www.youtube.com/watch?v=ff_IYOuQn_s&pp=ygUOamVhbiBjYXZhbGxlcmE%3D)
 - [The Bytecode Episode #4 - Explaining the LSP6 Key Manager](https://www.youtube.com/watch?v=2Sm9LsCPjdE)
@@ -150,19 +155,11 @@ contract GitHubProfile is Ownable(0xC0Dec0dec0DeC0Dec0dEc0DEC0DEC0DEC0DEC0dE) {
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cj42&hide=TeX&layout=compact" alt="Jean's Github Stats" align="right" height="auto"/>
 
-- **All About Solidity**
-    - [📓 The Book](https://leanpub.com/all-about-solidity-book#:~:text=A%20developer%20guide%20for%20smart,build%20new%20protocols%20and%20dApps.&text=Discover%20the%20secrets%20of%20the,About%20Solidity%22%20for%20a%20reason!)
-    - [📝 The Article Series](https://medium.com/coinmonks/all-about-solidity-article-series-f57be7bf6746
-)
-    - [Repository with more in-depth explanations and code examples](https://github.com/CJ42/All-About-Solidity).
-- [Blockchain Academic References](https://github.com/CJ42/Blockchain-Academic-References)
-- [Bitcoin Core Alpha release](https://github.com/CJ42/original-bitcoin-core-code-explained) - Deep Dive into the C++ source code.
-
-### 👨🏻‍🍳 Ongoing projects I am cooking
-
-- [**solidity-debugger.io**](https://solidity-debugger.io/) - curated list of Solidity errors and warnings + their explanations and how to fix them.
 - [**Decentralised Relayer Contracts**](https://github.com/CJ42/contracts.any.sender) - optimised forked version of any.sender working with Solidity 0.8.x
 - [**Solidity Bytes Utils**](https://github.com/CJ42/Solidity-BytesUtils) - Solidity library to manipulate bits and bytes.
+
+- [Blockchain Academic References](https://github.com/CJ42/Blockchain-Academic-References)
+- [Bitcoin Core Alpha release](https://github.com/CJ42/original-bitcoin-core-code-explained) - Deep Dive into the C++ source code.
 
 ### Languages & Tools
 
