@@ -158,7 +158,7 @@ contract GitHubProfile is Ownable(0xC0Dec0dec0DeC0Dec0dEc0DEC0DEC0DEC0DEC0dE) {
 - [**Decentralised Relayer Contracts**](https://github.com/CJ42/contracts.any.sender) - optimised forked version of any.sender working with Solidity 0.8.x
 - [**Solidity Bytes Utils**](https://github.com/CJ42/Solidity-BytesUtils) - Solidity library to manipulate bits and bytes.
 
-- [Blockchain Academic References](https://github.com/CJ42/Blockchain-Academic-References)
+- [Blockchain Academic References](https://github.com/CJ42/Blockchain-Academic-References) - foundational articles on the history of Blockchain.
 - [Bitcoin Core Alpha release](https://github.com/CJ42/original-bitcoin-core-code-explained) - Deep Dive into the C++ source code.
 
 ### Languages & Tools
